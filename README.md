@@ -9,7 +9,7 @@ ldrpbot is WhatsApp bot which provides instant access to various study materials
 # Features: Use everything via WhatsApp
 --------
 
-* Question Papers & Syllabus
+* Download Question Papers & Syllabus
 * Attendance
 * Jokes
 
@@ -23,4 +23,4 @@ Using ldrpbot is really simple:
 3. Send a **Hi**
 4. Hurrah!
 
-Note: TechBot is not affiliated with WhatsApp or use any API by WhatsApp.
+Note: ldrpbot is not affiliated with WhatsApp or using any API by WhatsApp.
