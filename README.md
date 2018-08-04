@@ -22,3 +22,5 @@ Using ldrpbot is really simple:
 2. Then it'll open WhatsApp.
 3. Send a **Hi**
 4. Hurrah!
+
+Note: TechBot is not affiliated with WhatsApp or use any API by WhatsApp.
