@@ -18,7 +18,7 @@ Features: Use everything via WhatsApp
 
 Using ldrpbot is really simple:
 
-  - Open http://bit.ly/ldrpbot from your smartphone.
-  - Then it'll open WhatsApp.
-  - Send a **Hi**
-  - Hurrah!
+1. Open http://bit.ly/ldrpbot from your smartphone.
+2. Then it'll open WhatsApp.
+3. Send a **Hi**
+4. Hurrah!
