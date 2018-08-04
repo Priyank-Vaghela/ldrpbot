@@ -6,6 +6,13 @@ Instant access to Question Paper & Syllabus for the College Student of LDRP Inst
 
 ldrpbot is WhatsApp bot which provides instant access to various study materials. 
 
+Features: Use everything via WhatsApp
+--------
+
+* Question Papers & Syllabus
+* Attendance
+* Jokes
+
 # How to use?
 ------------
 
