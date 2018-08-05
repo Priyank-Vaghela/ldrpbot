@@ -23,4 +23,5 @@ Using ldrpbot is really simple:
 3. Send a **Hi**
 4. Hurrah!
 
-Note: ldrpbot is not affiliated with WhatsApp or using any API by WhatsApp.
+Note: 
+ldrpbot is not supported, endorsed or affiliated in any manner by WhatsApp Inc. WhatsApp Messenger is a proprietary cross-platform Instant Messaging service for Smart-Phones that is owned and provided by WhatsApp Inc
